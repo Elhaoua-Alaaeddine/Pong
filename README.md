@@ -7,6 +7,7 @@
   <ul>
         <li>Classic Pong Game experience.</li>
         <li>Simple and clean code.</li>
+            <li>Uses OOP python</li>
         <li>Uses Turtle graphics for a visual representation.</li>
     </ul>
 
@@ -41,11 +42,7 @@
 
  <h2>Screenshots</h2>
 
-   <img src="/screenshot.png">
-
-  <h2>Contributions</h2>
-
-   <p>Contributions are welcome! If you find any bugs or want to improve the game, feel free to open an issue or submit a pull request.</p>
+   <img src="/screenshot.jpg">
 
    <h2>License</h2>
 
