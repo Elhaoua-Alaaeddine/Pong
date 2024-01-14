@@ -28,10 +28,12 @@
   <li>Run the game:</li>
   <pre><code>python main.py </code></pre>
   <li>Use the arrow keys to control the player 1 paddle and the W S keys to control the player 2 paddle:</li>
+    <h4>Player 1</h4>
         <ul>
             <li>Up arrow: Move Up</li>
             <li>Down arrow: Move Down</li>
         </ul>
+    <h4>Player 2</h4>
         <ul>
             <li>W: Move Up</li>
             <li>S: Move Down</li>
