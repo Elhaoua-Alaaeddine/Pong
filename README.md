@@ -7,7 +7,7 @@
   <ul>
         <li>Classic Pong Game experience.</li>
         <li>Simple and clean code.</li>
-            <li>Uses OOP python</li>
+            <li>Uses OOP python.</li>
         <li>Uses Turtle graphics for a visual representation.</li>
     </ul>
 
